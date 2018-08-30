@@ -1,6 +1,5 @@
 """
 Stephanie Cao
-kjcao
 Section B
 This file contains all my image editing functions/algorithms.
 """
